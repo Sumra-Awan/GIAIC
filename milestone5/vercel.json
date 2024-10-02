@@ -1,7 +1,0 @@
-{
-    "public": "./public",
-    "routes": [
-      { "src": "/", "dest": "/public/index.html" }
-    ]
-  }
-  
